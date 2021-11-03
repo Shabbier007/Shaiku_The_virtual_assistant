@@ -1,9 +1,9 @@
 # Shaiku_The_virtual_assistant
 
-        # In the end we use strong data structures and algorithm for the methods to respond according to the query
 A virtual assistant, also called AI assistant or digital assistant, is an application program that understands natural language voice commands and completes tasks for the user.
 Shaiku_The_Virtual_assistant is a cloud-based programs that require internet work.
 This Project is entirely developed by myself and it is designed by using native python language and its libraries
+#In the end we use strong data structures and algorithm for the methods to respond according to the query
 
 # FEATURES
 
